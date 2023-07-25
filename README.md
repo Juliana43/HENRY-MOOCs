@@ -33,6 +33,15 @@ La siguiente imagen muestra un dashboard interactivo:
 
 <p align=center><img src=_src/dashboard.png><p>
 
+## Librerias
+re
+pandas 
+numpy
+matplotlib.pyplot
+seaborn as
+import nltk
+PorterStemmer
+
 ## Licencia
 Este proyecto tiene la licencia GPL-2.0.
 
